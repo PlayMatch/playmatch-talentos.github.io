@@ -17,7 +17,7 @@ Saiba mais sobre a PlayMatch e confira abaixo as vagas em aberto.
 
 ### Vagas em Aberto
 
-💡 [Link](/head_hr) 
+💡 [Link](./head_hr.md) 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
