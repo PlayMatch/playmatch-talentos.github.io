@@ -10,31 +10,14 @@ Saiba mais sobre a PlayMatch e confira abaixo as vagas em aberto.
 
 ### Nossos endereços
 
-[![LinkedIn](https://img.shields.io/badge/playmatch-gg-blue?logo=linkedin&link=https://www.linkedin.com/company/playmatch)](https://www.linkedin.com/company/playmatch )
-![Twitter URL](https://img.shields.io/twitter/url?label=PlayMatchGG&style=social&url=https%3A%2F%2www.linkedin.com%2Fcompany%2Fplaymatch)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC9pC6StJnNc2IeMxyHcfsog?label=PlayMatch&style=social)
-![Website](https://img.shields.io/website?down_message=playmatch.gg&label=www&up_message=playmatch.gg&url=https%3A%2F%2Fwww.playmatch.gg)
+[![LinkedIn](https://img.shields.io/badge/playmatch-gg-blue?logo=linkedin&link=https://www.linkedin.com/company/playmatch)](https://www.linkedin.com/company/playmatch)
+[![Twitter URL](https://img.shields.io/twitter/url?label=PlayMatchGG&style=social&url=https%3A%2F%2www.linkedin.com%2Fcompany%2Fplaymatch)](https://twitter.com/PlayMatchgg)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC9pC6StJnNc2IeMxyHcfsog?label=PlayMatch&style=social)](https://www.youtube.com/channel/UC9pC6StJnNc2IeMxyHcfsog)
+[![Website](https://img.shields.io/website?down_message=playmatch.gg&label=www&up_message=playmatch.gg&url=https%3A%2F%2Fwww.playmatch.gg)](https://www.playmatch.gg)
 
 ### Vagas em Aberto
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+💡 [Link](/head_hr) 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
