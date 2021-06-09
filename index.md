@@ -11,6 +11,7 @@ Saiba mais sobre a PlayMatch e confira abaixo as vagas em aberto.
 ### Midia
 
 [PlayMatch abre para rodadas de investimentos](https://esportsobserver.com/playmatch-seeks-investment/)
+
 [eSports: a solução para educar uma nova geração](https://app.startse.com/artigos/esports-solucao-para-educar-uma-nova-geracao)
 
 ### Nossos endereços
