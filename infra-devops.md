@@ -13,10 +13,10 @@ Quer mudar o mundo e crescer conosco? Aplique para esta vaga! ♥
 ### 💡 O que nós buscamos:
  
 - Configuração e manutenção de serviços de infra em cloud
-- Buscar novas ferramentas e técnicas para a melhoria contínua da infra e serviços desenvolvidos.
+- Buscar novas ferramentas e técnicas para a melhoria contínua da infra e serviços mantidos.
 - Capacidade de planejamento e visão de longo prazo
 - Ser colaborativo, responsável e auto gerenciável.  
-- Conhecimento para aplicar as boas de configuração e manutentação de infra, operações e sysadmin;
+- Conhecimento para aplicar as boas práticas de configuração e manutentação de infra, operações e sysadmin;
 - Conhecimento AWS Cloud.
 - Conhecimento em técnicas de segurança;
 - Conhecimento de ferramentas de versão de código, como Git;
