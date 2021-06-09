@@ -8,6 +8,11 @@ Quer mudar o mundo e crescer conosco? ♥
 
 Saiba mais sobre a PlayMatch e confira abaixo as vagas em aberto.
 
+### Midia
+
+[PlayMatch abre para rodadas de investimentos](https://esportsobserver.com/playmatch-seeks-investment/)
+[eSports: a solução para educar uma nova geração](https://app.startse.com/artigos/esports-solucao-para-educar-uma-nova-geracao)
+
 ### Nossos endereços
 
 [![LinkedIn](https://img.shields.io/badge/playmatch-gg-blue?logo=linkedin&link=https://www.linkedin.com/company/playmatch)](https://www.linkedin.com/company/playmatch)
