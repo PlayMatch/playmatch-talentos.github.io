@@ -1,10 +1,19 @@
-## Welcome to GitHub Pages
+## Bem vindos a nossa página de talentos :) 
 
-You can use the [editor on GitHub](https://github.com/PlayMatch/talentos-gg/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+🚀🚀 Estamos procurando potenciais talentos que possam encarar conosco o desafio de transformar o mundo por meio da educação atrelada aos games e eSports. Se você acredita que pode nos ajudar em nossa missão, aplique para as nossas vagas! :)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Trabalhamos com times multidisciplinares e modelos ágeis com grandes oportunidades de crescimento. Também oferecemos um Programa de Stock Options, onde você pode se tornar um sócio da startup! :)
 
-### Markdown
+Quer mudar o mundo e crescer conosco? ♥
+
+Saiba mais sobre a PlayMatch e confira abaixo as vagas em aberto.
+
+### Nossos endereços
+
+https://www.playmatch.gg
+https://www.linkedin.com/company/playmatch/
+
+### Vagas em Aberto
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
