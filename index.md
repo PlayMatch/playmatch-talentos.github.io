@@ -17,14 +17,10 @@ Saiba mais sobre a PlayMatch e confira abaixo as vagas em aberto.
 
 ### Vagas em Aberto
 
-💡 [Link](./head_hr.md) 
-```
+💡 [Head de Recursos Humanos](head_hr.md) 
+💡 [Head de Recursos Humanos](head_hr.md) 
+💡 [Head de Recursos Humanos](head_hr.md) 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PlayMatch/talentos-gg/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Entre em contato através das nossas redes ou pela caixa de emails:
 
