@@ -10,8 +10,10 @@ Saiba mais sobre a PlayMatch e confira abaixo as vagas em aberto.
 
 ### Nossos endereços
 
-https://www.playmatch.gg
-https://www.linkedin.com/company/playmatch/
+[![LinkedIn](https://img.shields.io/badge/playmatch-gg-blue?logo=linkedin&link=https://www.linkedin.com/company/playmatch)](https://www.linkedin.com/company/playmatch )
+![Twitter URL](https://img.shields.io/twitter/url?label=PlayMatchGG&style=social&url=https%3A%2F%2www.linkedin.com%2Fcompany%2Fplaymatch)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC9pC6StJnNc2IeMxyHcfsog?label=PlayMatch&style=social)
+![Website](https://img.shields.io/website?down_message=playmatch.gg&label=www&up_message=playmatch.gg&url=https%3A%2F%2Fwww.playmatch.gg)
 
 ### Vagas em Aberto
 
@@ -43,4 +45,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Entre em contato através das nossas redes ou pela caixa de emails:
 
-[talentos@playmatch.gg](mailto:talentos@playmatch.gg)
+[![Mail](https://img.shields.io/badge/talentos@playmatch-gg-red?logo=gmail&link=https://www.linkedin.com/company/playmatch)](mailto:talentos@playmatch.gg)
+
+####
+
+Thanks to 
+* https://shields.io
