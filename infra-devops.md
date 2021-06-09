@@ -17,12 +17,12 @@ Quer mudar o mundo e crescer conosco? Aplique para esta vaga! ♥
 - Capacidade de planejamento e visão de longo prazo
 - Ser colaborativo, responsável e auto gerenciável.  
 - Conhecimento para aplicar as boas de configuração e manutentação de infra, operações e sysadmin;
-- Conhecimentos AWS Cloud.
-- Conhecimentos em técnicas de segurança;
+- Conhecimento AWS Cloud.
+- Conhecimento em técnicas de segurança;
 - Conhecimento de ferramentas de versão de código, como Git;
 - Conhecimento de integração contínua e pipeline de implantação contínua.
-- Conhecimentos de APM e outra ferramentas de monitoramento e gerenciamento de alarmes e notificações;
-- Conhecimentos em técnicas de segurança;
+- Conhecimento de APM e outra ferramentas de monitoramento e gerenciamento de alarmes e notificações;
+- Conhecimento em técnicas de segurança;
  
 ### 🔎 O que pode te destacar:
 - Experiência de trabalho em equipes ágeis;
