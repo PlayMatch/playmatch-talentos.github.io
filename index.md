@@ -18,9 +18,12 @@ Saiba mais sobre a PlayMatch e confira abaixo as vagas em aberto.
 ### Vagas em Aberto
 
 💡 [Head de Recursos Humanos](head_hr.md) 
-💡 [Head de Recursos Humanos](head_hr.md) 
-💡 [Head de Recursos Humanos](head_hr.md) 
 
+💡 [Desenvolvedor BackEnd Java/Node](backend.md) 
+
+💡 [Desenvolvedor FrontEnd React/ReactNative](frontend.md) 
+
+💡 [Infra / Devops](infra-devops.md) 
 
 ### Entre em contato através das nossas redes ou pela caixa de emails:
 
@@ -29,4 +32,5 @@ Saiba mais sobre a PlayMatch e confira abaixo as vagas em aberto.
 ####
 
 Thanks to 
+* https://pages.github.com/
 * https://shields.io
