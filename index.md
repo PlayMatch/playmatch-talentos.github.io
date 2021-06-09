@@ -29,8 +29,6 @@ Saiba mais sobre a PlayMatch e confira abaixo as vagas em aberto.
 
 [![Mail](https://img.shields.io/badge/talentos@playmatch-gg-red?logo=gmail&link=https://www.linkedin.com/company/playmatch)](mailto:talentos@playmatch.gg)
 
-####
-
-Thanks to 
+#### Special Thanks to 
 * https://pages.github.com/
 * https://shields.io
