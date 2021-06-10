@@ -1,4 +1,4 @@
-[Voltar | Sobre a PlayMatch](https://playmatch.github.io/playmatch-talentos.github.io/)
+[Voltar - Sobre a PlayMatch](https://playmatch.github.io/playmatch-talentos.github.io/)
 
 ### Vaga para Desenvolvedor BackEnd - JAVA/NODE | PLENO/SÊNIOR
  
@@ -42,4 +42,4 @@ Quer mudar o mundo e crescer conosco? Aplique para esta vaga! ♥
  
 Faça parte da PlayMatch! :)
 
-[Voltar | Sobre a PlayMatch](https://playmatch.github.io/playmatch-talentos.github.io/)
+[Voltar - Sobre a PlayMatch](https://playmatch.github.io/playmatch-talentos.github.io/)
