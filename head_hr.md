@@ -1,4 +1,4 @@
-[Voltar | Sobre a PlayMatch](https://playmatch.github.io/playmatch-talentos.github.io/)
+[Voltar - Sobre a PlayMatch](https://playmatch.github.io/playmatch-talentos.github.io/)
 
 ## Essa vaga é para profissional de nível Pleno/Sênior, na área de Recursos Humanos!
 
@@ -41,4 +41,4 @@ Quer mudar o mundo e crescer conosco? Aplique para esta vaga! ♥
 - Programa de Stock Options (ações para ser sócio da startup)
 - Ambiente de trabalho: DISCORD ♥
 
-[Voltar | Sobre a PlayMatch](https://playmatch.github.io/playmatch-talentos.github.io/)
+[Voltar - Sobre a PlayMatch](https://playmatch.github.io/playmatch-talentos.github.io/)
