@@ -2,7 +2,7 @@
 
 🚀🚀 Estamos procurando potenciais talentos que possam encarar conosco o desafio de transformar o mundo por meio da educação atrelada aos games e eSports. Se você acredita que pode nos ajudar em nossa missão, aplique para as nossas vagas! :)
 
-Trabalhamos com times multidisciplinares e modelos ágeis com grandes oportunidades de crescimento. Também oferecemos um Programa de Stock Options, onde você pode se tornar um sócio da startup! :)
+Na PlayMatch, toda a nossa cultura e valores são voltados para cuidar das pessoas que estão conosco. Trabalhamos com times multidisciplinares e modelos ágeis com grandes oportunidades de crescimento. Também oferecemos um Programa de Stock Options, onde você pode se tornar um sócio da startup! :)
 
 Quer mudar o mundo e crescer conosco? ♥
 
