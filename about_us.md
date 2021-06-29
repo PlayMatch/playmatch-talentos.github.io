@@ -3,9 +3,10 @@
 ### 💡 Como é trabalhar aqui
 
 Estamos procurando potenciais talentos que possam encarar conosco o desafio de transformar o mundo por meio da educação atrelada aos games e eSports. 
-Para isso buscamos pessoas entusiasmadas com Jogos, e-Sports ou Educação e que asism estejam em sinergia com nosso projeto.
+Para isso buscamos pessoas entusiasmadas com Jogos, e-Sports ou Educação e que assim estejam em sinergia com nosso projeto.
 
 Nosso ambiente apesar de inúmeros desafios, é de trabalho descontraído.
+
 90% do pessoal é gamer ou tem afinidade muito forte, nossos bate-papos pós reunião ou durante o trabalhao são: lançamento de jogos, DC vs Marvel, campeonato de jogos, algum streamer/youtuber
 
 Todos trabalham remoto e usamos como base métodos ágeis como Scrum e Canban, com rapidas reuniões diárias[
