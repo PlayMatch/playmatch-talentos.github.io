@@ -8,18 +8,20 @@ Quer mudar o mundo e crescer conosco? ♥
 
 Saiba mais sobre a PlayMatch e confira abaixo as vagas em aberto.
 
-### Midia
+### Nosso jeito de trabalhar
 
-[PlayMatch abre para rodadas de investimentos](https://esportsobserver.com/playmatch-seeks-investment/)
+[O que fazemos? Como trabalhamos? O que jogamos? Marvel ou DC?](about_us.md) 
+
+### Notícias sobre a Play, para você nos conhecer um pouco
+
+[Alem da Faria Lima: PlayMatch quer Transformar a edução no país unindo ensino e games](https://startups.com.br/alem-da-faria-lima/alem-da-faria-lima-playmatch-quer-transformar-educacao-no-pais-unindo-ensino-e-games/)
 
 [eSports: a solução para educar uma nova geração](https://app.startse.com/artigos/esports-solucao-para-educar-uma-nova-geracao)
 
-### Nossos endereços
+[PlayMatch abre para rodadas de investimentos](https://esportsobserver.com/playmatch-seeks-investment/)
 
-[![LinkedIn](https://img.shields.io/badge/playmatch-gg-blue?logo=linkedin&link=https://www.linkedin.com/company/playmatch)](https://www.linkedin.com/company/playmatch)
-[![Twitter URL](https://img.shields.io/twitter/url?label=PlayMatchGG&style=social&url=https%3A%2F%2www.linkedin.com%2Fcompany%2Fplaymatch)](https://twitter.com/PlayMatchgg)
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC9pC6StJnNc2IeMxyHcfsog?label=PlayMatch&style=social)](https://www.youtube.com/channel/UC9pC6StJnNc2IeMxyHcfsog)
-[![Website](https://img.shields.io/website?down_message=playmatch.gg&label=www&up_message=playmatch.gg&url=https%3A%2F%2Fwww.playmatch.gg)](https://www.playmatch.gg)
+💡 [Head de Recursos Humanos](head_hr.md) 
+
 
 ### Vagas em Aberto
 
@@ -30,6 +32,13 @@ Saiba mais sobre a PlayMatch e confira abaixo as vagas em aberto.
 💡 [Desenvolvedor FrontEnd React/ReactNative](frontend.md) 
 
 💡 [Infra / Devops](infra-devops.md) 
+
+### Nossos endereços
+
+[![LinkedIn](https://img.shields.io/badge/playmatch-gg-blue?logo=linkedin&link=https://www.linkedin.com/company/playmatch)](https://www.linkedin.com/company/playmatch)
+[![Twitter URL](https://img.shields.io/twitter/url?label=PlayMatchGG&style=social&url=https%3A%2F%2www.linkedin.com%2Fcompany%2Fplaymatch)](https://twitter.com/PlayMatchgg)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UC9pC6StJnNc2IeMxyHcfsog?label=PlayMatch&style=social)](https://www.youtube.com/channel/UC9pC6StJnNc2IeMxyHcfsog)
+[![Website](https://img.shields.io/website?down_message=playmatch.gg&label=www&up_message=playmatch.gg&url=https%3A%2F%2Fwww.playmatch.gg)](https://www.playmatch.gg)
 
 ### Entre em contato através das nossas redes ou pela caixa de emails:
 
