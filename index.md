@@ -8,20 +8,17 @@ Quer mudar o mundo e crescer conosco? ♥
 
 Saiba mais sobre a PlayMatch e confira abaixo as vagas em aberto.
 
-### Nosso jeito de trabalhar
-
-[O que fazemos? Como trabalhamos? O que jogamos? Marvel ou DC?](about_us.md) 
-
 ### Notícias sobre a Play, para você nos conhecer um pouco
 
-[Alem da Faria Lima: PlayMatch quer Transformar a edução no país unindo ensino e games](https://startups.com.br/alem-da-faria-lima/alem-da-faria-lima-playmatch-quer-transformar-educacao-no-pais-unindo-ensino-e-games/)
+[Alem da Faria Lima: PlayMatch quer Transformar a educação no país unindo ensino e games](https://startups.com.br/alem-da-faria-lima/alem-da-faria-lima-playmatch-quer-transformar-educacao-no-pais-unindo-ensino-e-games/)
 
 [eSports: a solução para educar uma nova geração](https://app.startse.com/artigos/esports-solucao-para-educar-uma-nova-geracao)
 
 [PlayMatch abre para rodadas de investimentos](https://esportsobserver.com/playmatch-seeks-investment/)
 
-💡 [Head de Recursos Humanos](head_hr.md) 
+### Nosso jeito de trabalhar
 
+[O que fazemos? Como trabalhamos? O que jogamos? Marvel ou DC?](about_us.md) 
 
 ### Vagas em Aberto
 
