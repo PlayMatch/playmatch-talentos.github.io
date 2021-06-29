@@ -20,15 +20,17 @@ Estimulamos o empreendedorismo e buscamos qualidade de vida num ambiente de trab
 
  
 ### 🔎 Modelo de trabalho
+
 - 100% Home Office
 - 40 horas semanais (Seg-Sex) 
 - Horários flexíveis
 - Salário atrativo, compatível com melhores práticas do mercado
-- Ambiente saudável de trabalho
-- Ambiente de trabalho: DISCORD ♥
+- Ambiente saudável e descontraído
+- Ferramenta de comunicação: DISCORD ♥
 - Possibilidade de adesão ao Programa de Stock Options (ações para ser sócio da startup) e Bonus
 - Trabalhe com suas paixões, software e games
 - Modelo de contratação PJ
+ 
  
 ### 🚀 Sobre a empresa e o negócio:
 
@@ -47,7 +49,16 @@ Jogando num mercado bilionário, a PlayMatch busca unir responsabilidade social 
 
 [Victor Marques, https://app.startse.com](https://app.startse.com/artigos/esports-solucao-para-educar-uma-nova-geracao)
 
-Faça parte da PlayMatch! :)
+### 🚀 Curiosidades e dados:
 
+- O que a galera joga: Age of Empires, CS, Lol, Rocket League
+- DC ou Marvel: A batalha é acirrada, no momento Marvel está com mais adeptos
+- Nosso Head de e-Sports tem voz de Locutor e se chama Zeus (sim, na identidade)
+- Nossa Head de educação e o Head de Tecnologia tem cabelos coloridos
+- Nosso CEO tem apenas 25 anos
+- Nossa primeira Liga oficial teve 32 escolas participantes e a última mais de 5.000 
+
+
+Faça parte da PlayMatch! :)
 
 [Voltar - Sobre a PlayMatch](https://playmatch.github.io/playmatch-talentos.github.io/)
