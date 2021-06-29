@@ -30,17 +30,19 @@ Estimulamos o empreendedorismo e buscamos qualidade de vida num ambiente de trab
  
 ### 🚀 Sobre a empresa e o negócio:
 
-"Após crescer 225% em 2020, a PlayMatch prevê encerrar 2021 com expansão de 1.150% (what?!). 
+"_Após crescer 225% em 2020, a PlayMatch prevê encerrar 2021 com expansão de 1.150% (what?!). 
 A ideia é escalar sua plataforma e levar sua solução para mais de 20 mil escolas no Brasil até o fim do ano. 
 Para apoiar todo esse crescimento, a startup se prepara para sua primeira rodada de investimentos, estando aberta a interessados (3,2,1, valendo!). 
-O melhor dos mundos, segundo Gabriel, é levantar R$ 3,6 milhões até o fim de junho."
+O melhor dos mundos, segundo Gabriel, é levantar R$ 3,6 milhões até o fim de junho._"
+
 Fabiana Rolfini, [https://startups.com.br](https://app.startse.com/artigos/esports-solucao-para-educar-uma-nova-geracao)
 
-"Em parceria com grandes estúdios mundiais de jogos, como Epic e Riot Games, a PlayMatch já oferece sua solução para milhares de alunos. 
+"_Em parceria com grandes estúdios mundiais de jogos, como Epic e Riot Games, a PlayMatch já oferece sua solução para milhares de alunos. 
 A startup está preparando uma rodada de investimentos ainda em 2021 para acelerar o crescimento e atender mais de 25 mil escolas.
 
 A solução proposta pela PlayMatch atua na interseção entre educação e games, trazendo os eSports como uma maneira de ressignificar o aprendizado para uma geração que possui novos interesses e que exige novos estímulos para aprender. 
-Jogando num mercado bilionário, a PlayMatch busca unir responsabilidade social e diversão - numa mistura que tem tudo para dar certo."
+Jogando num mercado bilionário, a PlayMatch busca unir responsabilidade social e diversão - numa mistura que tem tudo para dar certo._"
+
 Victor Marques, [https://app.startse.com](https://app.startse.com/artigos/esports-solucao-para-educar-uma-nova-geracao)
 
 Faça parte da PlayMatch! :)
