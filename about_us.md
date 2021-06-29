@@ -9,8 +9,9 @@ Nosso ambiente apesar de inúmeros desafios, é de trabalho descontraído.
 
 90% do pessoal é gamer ou tem afinidade muito forte, nossos bate-papos pós reunião ou durante o trabalhao são: lançamento de jogos, DC vs Marvel, campeonato de jogos, algum streamer/youtuber
 
-Todos trabalham remoto e usamos como base métodos ágeis como Scrum e Canban, com rapidas reuniões diárias[
-Nossa ferramenta de comunicação oficial de texto/áudio é o discord (famoso server de áudio/video também dos gamers)
+Todos trabalham remoto e usamos como base métodos ágeis como Scrum e Canban, com rapidas reuniões diárias
+
+Como ferramenta de comunicação oficial de texto/áudio usamo o Discord (famoso server de áudio/video também dos gamers)
 
 Nossa plataforma está sendo desenvolvida do zero com tecnologia atual e arquitetura robusta.
 
