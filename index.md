@@ -22,11 +22,7 @@ Saiba mais sobre a PlayMatch e confira abaixo as vagas em aberto.
 
 ### Vagas em Aberto
 
-💡 [Head de Recursos Humanos](head_hr.md) 
-
-💡 [Desenvolvedor BackEnd Java/Node](backend.md) 
-
-💡 [Desenvolvedor FrontEnd React/ReactNative](frontend.md) 
+💡 [Desenvolvedor WebSites JR/PL](websites-jr.md) 
 
 💡 [Infra / Devops](infra-devops.md) 
 
